@@ -6,9 +6,13 @@ TUUKUL
 
 Integrantes :
 Ascencio Bolio Raúl
+
 Barrientos López Carlos Iván
+
 García Coronado América Montserrat
+
 Miranda Sánchez Kevin Ricardo
+
 Vázquez Rizo Paola
 
 Modo de compilación : 
