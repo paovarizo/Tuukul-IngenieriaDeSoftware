@@ -2,9 +2,11 @@
 Repositorio para llevar a cabo el proyecto de la materia de Ingeniería de Software 
 
 Equipo : 
+
 TUUKUL
 
-Integrantes :
+INTEGRANTES :
+
 Ascencio Bolio Raúl
 
 Barrientos López Carlos Iván
@@ -15,12 +17,13 @@ Miranda Sánchez Kevin Ricardo
 
 Vázquez Rizo Paola
 
-Modo de compilación : 
- Compilamos con : 
+Modo de compilación :
+
+COMPILAMOS CON : 
    mvn clean install
  
-Ejecutamos con:
+EJECUTAMOS CON :
    mvn tomcat7:run
    
-En un navegador, accedemos a:
+EN UN NAVEGADOR ACCEDEMOS A :
   http://localhost:8080/mi-primer-aplicacion-web/
